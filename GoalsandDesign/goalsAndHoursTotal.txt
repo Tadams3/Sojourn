@@ -1,0 +1,446 @@
+Progress report and goals
+
+
+Alpha requirements:
+- Flesh out base world models such as plants, rocks, cliff faces, trees/bushes, and concept art for base world. (Surface)
+- Work out base charachter design/ movement. 
+- First bow and arrow concept
+- Magic abilities and their functions.
+- First enemy concept. 
+ 
+
+September 2022 Concepts
+
+Tucker:
+- Design terrain assets such as rocks plants and cliffs
+- Add a few more modular assets to the Citadel of Glass. 
+- Get used to the basic interface of Unreal engine. 
+- Understand camera movement in Unreal Engine. 
+
+Wyatt:
+- Sculpting and retopology practice.
+- Get used to the basic interface of Unreal engine.
+- Make a few leaf textures.
+
+Alex:
+- Expirament with pre-build assets inside of Unreal Engine. 
+- Study c++ basics. 
+- Understand camera movement in Unreal Engine. 
+
+Team goals:
+- Flesh out concept art for world and terrain.
+- Discuss the theme/art style of the game. 
+- Record hours they will be tracked!!!
+
+
+September 19, 2022 - September 25, 2022
+
+Tucker:
+- Work with wyatt on concept art for plants. \ 
+- Learn plant design and sculpt rocks. (Mesh only) X 
+- Make cliff faces for map edges. (Mesh only) \/
+
+*Hours: 4.12
+*Total Hours: 4.12  
+
+Wyatt:
+- General concept art for plants. \
+- Study more retopology and sculpting. \ 
+ 
+
+*Hours: 9 
+*Total Hours: 9
+
+Alex: 
+
+- Study c++ basics. \
+- Understand camera movement in Unreal Engine. \/
+- Get made game assets and understand how to import them into Unreal Engine. X
+
+*Hours:4
+*Total Hours:4
+
+
+September 25, 2022 - October 2, 2022
+
+Tucker:
+- More concept art for plants. X
+- Make base plant meshes to show to group. X
+- Sculpt cliff and rock meshes. X
+- Study temple design concepts. X
+- Study Quixle Bridge X
+*Hours:0
+*Total Hours:4.12
+
+Wyatt:
+- Work on more plant concept art for base models. \
+- Work on creature concept art (face to fit body)\
+
+*Hours:3.5
+*Total Hours:12.5
+
+
+October 3, 2022 - October 9, 2022
+
+Tucker:
+- More concept art for plants. X
+- Make base plant meshes to show to group. X
+- Sculpt cliff and rock meshes. X
+- Study procedural rock texture. X
+- Study temple design concepts. X
+- Study bow and arrow weapon designs. X
+*Hours:1.67
+*Total Hours:5.79
+
+Wyatt:
+- Work on more plant concept art for base models. 
+- Work on creature concept art (face to fit body)
+- Start creature modeling (Basic Mesh).
+- Start bow and arrow concept art.
+
+*Hours:1
+*Total Hours:13.5
+
+October 9, 2022 - October 16, 2022
+
+Tucker:
+- More concept art for plants. \
+- Make base plant meshes to show to group. \
+- Sculpt cliff and rock meshes. X
+- Study procedural rock texture. \
+- Study temple design concepts. X
+- Study bow and arrow weapon designs. X
+*Hours:1.86
+*Total Hours: 7.65
+
+Wyatt:
+- Work on more plant concept art for base models. \/
+- Work on creature concept art (face to fit body). \/
+- Start creature modeling (Basic Mesh). \/
+- Start bow and arrow concept art. \/
+*Hours: 4.25
+*Total Hours: 17.75
+
+Alex:
+- Expirament with pre-build assets inside of Unreal Engine (QuixelBridge). 
+- Study c++ basics. 
+- Work on and get close to finishing grappling hook.
+*Hours: 3
+*Total Hours: 7
+
+October 17, 2022 - October 23, 2022
+
+Tucker:
+- More concept art for plants. \/
+- Make base plant meshes to show to group. \
+- Sculpt cliff and rock meshes. \
+- Study procedural rock texture. \/
+- Study temple design concepts. \
+- Study bow and arrow weapon designs. X
+*Hours:7.93
+*Total Hours: 15.58
+
+Wyatt:
+- Detailed concept art on the bow. \
+- Base sculpting on creature. \/
+- possibly more plant concept art. \/
+*Hours: 4
+*Total Hours: 21.75
+
+Alex:
+- Expirament with pre-build assets inside of Unreal Engine (QuixelBridge). 
+- Study c++ basics. 
+- Work on and get close to finishing grappling hook.
+*Hours: 0
+*Total Hours: 7
+
+
+October 24, 2022 - October 30, 2022
+
+
+Tucker:
+
+- Make base plant meshes to show to group. X
+- Sculpt cliff and rock meshes. X
+- Study temple design concepts/procedural materials. X
+- Study bow and arrow weapon designs, start base mesh. X
+
+*Hours:1
+*Total Hours: 16.58
+
+
+Wyatt:
+- Detailed concept art on the bow. \/
+- Retopology/fine sculpting of creature. \
+
+
+*Hours: 11.08
+*Total Hours: 32.83
+
+
+Alex:
+- Expirament with pre-build assets inside of Unreal Engine (QuixelBridge). X
+- Study c++ basics. X
+- Work on and get close to finishing grappling hook. (Postponed)
+*Hours: 4.5
+*Total Hours: 11.5
+
+Jackson:
+- Make rock meshes.
+
+*Hours: 1.5
+*Total Hours:1.5
+
+
+October 31, 2022 - November 6, 2022
+
+
+Wyatt:
+- Finish retopology this week and start fine sculpting. \/
+
+*Hours: 11.5
+*Total Hours: 44.33
+
+Tucker:
+- Make base plant meshes to show to group. X
+- Sculpt cliff and rock meshes. X 
+- Study temple design concepts/procedural materials. \/ 
+- Study bow and arrow weapon designs, start base mesh. \
+- Get HP mesh of bow done. X
+
+*Hours: 4
+*Total Hours: 20.58
+
+Alex:
+- Learn mesh colliders \/
+- Triggers/ intereactions with and on objects \/
+
+*Hours: 10 
+*Total Hours: 21.5
+
+Jackson:
+- Sculpt cliff and rock meshes.\/
+- Basic retopology \/
+- Rendering basics \/
+- Basics of Diffuse maps and maps and how to use them in unreal. (Postpone)
+
+*Hours: 7.5
+*Total Hours: 9
+
+
+
+
+
+November 13, 2022 - November 19, 2022
+
+Wyatt: 
+- Fixing topology, creature mesh \/
+- Baking textures \/
+- Start texture painting \/
+
+*Hours: 11.58
+*Total Hours: 55.91
+
+Tucker:
+- Get high poly bow mesh sculpted. X
+- Get base temple design done. X
+- Make tile/rock procedural textures. X
+
+*Hours: 2
+*Total Hours: 22.58
+
+Alex:
+- Player health/damage.
+- Damage from other objects.
+- Player death.
+
+*Hours:  
+*Total Hours: 
+
+Jackson:
+- Get base temple design done. X
+- Make tile/rock procedural textures. X
+- Learn shader editor interface. X
+
+*Hours:6
+*Total Hours: 15
+
+
+November 21, 2022 - November 27, 2022
+
+Tucker:
+- Get high poly bow mesh sculpted. \
+- Get base temple design done. X
+- Make tile/rock procedural textures. X
+
+*Hours: 3.5
+*Total Hours: 26.08
+
+
+Jackson:
+- Get base temple design done. X
+- Make tile/rock procedural textures. X
+- Learn shader editor interface. 
+- Finish face X
+
+*Hours: 2
+*Total Hours: 17
+
+Alex:
+- Off for Thanksgiving this week. \/
+
+
+Wyatt: 
+- Try and rig jaw/ finish rig
+- Possibly make plants
+
+
+*Hours: 3
+*Total Hours: 58.91
+
+November 28, 2022 - December 4, 2022
+
+Tucker:
+- Get high poly bow mesh sculpted. \
+- Get base temple design done. \
+- Make tile/rock procedural textures. \
+- Making low poly models from already made assets X
+- Start putting together world for Alex and team to code in X
+
+*Hours: 3
+*Total Hours: 29.08
+
+
+Jackson:
+- Get base temple design done. \
+- Make tile/rock procedural textures. \
+- Make pillar this week. \
+- Learn to sculpt stone for temple assets. \
+
+*Hours: 4.5
+*Total Hours: 21.5
+
+Alex:
+-Player health/damage. X
+- Damage from other objects. X
+- Player death. X
+
+*Hours: 2.5
+*Total Hours: 24
+
+Wyatt: 
+- Animation of creature \
+
+*Hours: 4
+*Total Hours: 62.91
+
+December 5, 2022 - January 8, 2023
+
+Tucker:
+- Get high poly bow mesh sculpted. X
+- Get base temple design done. X
+- Make tile/rock procedural textures. X
+- Making low poly models from already made assets. X
+- Start putting together world for Alex and team to code in. X
+- Make temple base design. X
+
+*Hours: 1.5
+*Total Hours: 30.58
+
+Jackson:
+- Get base temple design done. X
+- Make tile/rock procedural textures. X
+- Make pillar this week. X
+- Learn to sculpt stone for temple assets. X
+
+*Hours: 1.5
+*Total Hours: 23
+
+Alex:
+-Player health/damage. X
+- Damage from other objects. X
+- Player death. X
+
+*Hours: 0
+*Total Hours: 24
+
+Wyatt: 
+- Animation of creature \
+
+*Hours: 1
+*Total Hours: 63.91
+
+January 9, 2023 - January 15, 2023
+
+Tucker:
+- Get high poly bow mesh sculpted. 
+- Get base temple design done. 
+- Make tile/rock procedural textures. 
+- Making low poly models from already made assets. 
+- Start putting together world for Alex and team to code in. 
+- Make temple base design. 
+
+*Hours: 0
+*Total Hours: 30.58
+
+Jackson:
+- Get base temple design done. 
+- Make tile/rock procedural textures. 
+- Make pillar this week. 
+- Learn to sculpt stone for temple assets. 
+
+*Hours: 1
+*Total Hours: 24
+
+Alex:
+-Player health/damage. 
+- Damage from other objects. 
+- Player death. 
+
+*Hours: 0
+*Total Hours: 24
+
+Wyatt: 
+- Animation of creature 
+
+*Hours: 0
+*Total Hours:63.91
+
+
+---- Big break ----
+
+March 2, 2023 - March 12, 2023
+
+Tucker:
+- Get high poly bow mesh sculpted. 
+- Get base temple design (Blueprint) done. 
+- Make tile/rock procedural textures. 
+- Making low poly models from already made assets. 
+- Start putting together world for Alex and team to code in. 
+- Make temple base design. 
+
+*Hours: 
+*Total Hours: 
+
+Jackson:
+- Get base temple design done. 
+- Make tile/rock procedural textures. 
+- Make pillar this week. 
+- Learn to sculpt stone for temple assets. 
+
+*Hours: 
+*Total Hours: 
+
+Alex:
+-Player health/damage. 
+- Damage from other objects. 
+- Player death. 
+
+*Hours: 
+*Total Hours: 
+
+Wyatt: 
+- Animation of creature 
+
+*Hours: 
+*Total Hours:
