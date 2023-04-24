@@ -1,0 +1,36 @@
+
+March 12, 2023 - April 30, 2023
+
+
+Tucker:
+- Importing assets into unreal.
+- Follow up on blender skills
+- Practice texture baking and materials
+- Learn github
+
+*Hours: 
+*Total Hours: 
+
+Jackson:
+- Importing assets into unreal.
+- Follow up on blender skills
+- Practice texture baking and materials
+- Learn github
+
+*Hours: 
+*Total Hours: 
+
+Alex:
+- Understand importing assets into unreal
+- Build testing grounds
+- Learn github
+
+*Hours: 
+*Total Hours: 
+
+Wyatt:
+- Complete more animations (attack/death) for lizard/enemy
+- Learn github
+
+*Hours: 
+*Total Hours: 
